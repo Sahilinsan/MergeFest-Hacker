@@ -19,7 +19,7 @@ Read the `contributes.md` file for guidelines on how you can start contributing:
 Please take a moment to review the event rules: [Event Rules](https://docs.google.com/document/d/1G_yL5sgYQsW4kSF1JQrom15S56BYrAWka3G29cSWh_U/edit?tab=t.0#heading=h.5tw6fponbhv4)
 
 ### 5. **Explore Projects to Contribute To**
-A list of projects will be available soon. Stay tuned for more details on exciting open-source opportunities!
+Checkout [Projects.md](https://github.com/IMGIITRoorkee/MergeFest-Hacker/blob/main/Projects.md) for the list of projects announced for MergeFest 2024 : whether you are a beginner or pro there is something for everyone. Hack away!
 
 ---
 Join us on [Discord](https://discord.com/invite/aKaEbaVYKf)
