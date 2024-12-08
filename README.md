@@ -8,10 +8,10 @@ Welcome to **MergeFest 2024**, an exciting open-source event organized by the **
 Fill out the registration form to secure your spot: [Registration Form Link]
 
 ### 2. **Get Familiar with Git**
-Brush up on the basics of Git to make contributions easily. Check out this helpful guide: [https://github.com/IMGIITRoorkee/open-source-arcade/blob/main/README.md]
+Brush up on the basics of Git to make contributions easily. Check out this helpful guide: https://github.com/IMGIITRoorkee/open-source-arcade/blob/main/README.md
 
 ### 3. **Learn How to Contribute**
-Read the `contributes.md` file for guidelines on how you can start contributing: [Contributes.md Link]
+Read the `contributes.md` file for guidelines on how you can start contributing: https://github.com/IMGIITRoorkee/MergeFest-Hacker/blob/main/CONTRIBUTORS.md
 
 ### 4. **Review Event Rules**
 Please take a moment to review the event rules: [Event Rules Link]
