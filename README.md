@@ -5,7 +5,7 @@ Welcome to **MergeFest 2024**, an exciting open-source event organized by the **
 ## 🚀 How to Get Started
 
 ### 1. **Register for the Event**
-Fill out the registration form to secure your spot: [Registration Form Link]
+Fill out the registration form to secure your spot: [Registration Form](https://channeli.in/forminator/forms/65/fill)
 
 ### 2. **Get Familiar with Git**
 Brush up on the basics of Git to make contributions easily. Check out this helpful guide: https://github.com/IMGIITRoorkee/open-source-arcade/blob/main/README.md
@@ -20,5 +20,6 @@ Please take a moment to review the event rules: [Event Rules Link]
 A list of projects will be available soon. Stay tuned for more details on exciting open-source opportunities!
 
 ---
+Join us on [Discord](https://discord.com/invite/aKaEbaVYKf)
 
 Let's come together, contribute, and make **MergeFest 2024** an amazing open-source event! 🌟
