@@ -2,6 +2,8 @@
 
 Welcome to **MergeFest 2024**, an exciting open-source event organized by the **Information Management Group (IMG)** at **IIT Roorkee**! Join us for a month of collaboration, learning, and contributing to impactful open-source projects.
 
+### Check out the leaderboard here :[Leaderboard](https://topmergers.channeli.in/)
+
 ## 🚀 How to Get Started
 
 ### 1. **Register for the Event**
@@ -14,7 +16,7 @@ Brush up on the basics of Git to make contributions easily. Check out this helpf
 Read the `contributes.md` file for guidelines on how you can start contributing: https://github.com/IMGIITRoorkee/MergeFest-Hacker/blob/main/CONTRIBUTORS.md
 
 ### 4. **Review Event Rules**
-Please take a moment to review the event rules: [Event Rules Link]
+Please take a moment to review the event rules: [Event Rules](https://docs.google.com/document/d/1G_yL5sgYQsW4kSF1JQrom15S56BYrAWka3G29cSWh_U/edit?tab=t.0#heading=h.5tw6fponbhv4)
 
 ### 5. **Explore Projects to Contribute To**
 A list of projects will be available soon. Stay tuned for more details on exciting open-source opportunities!
