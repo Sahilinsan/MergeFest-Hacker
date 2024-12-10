@@ -4,10 +4,10 @@ Welcome to the **Projects Directory** for **MergeFest 2024**! Below is a list of
 
 ## 🚀 Projects
 
-### 1. **Project Name**: [Insert Project Title]
-- **Description**: Brief description of what the project does and its goals.
-- **Technologies**: [List the technologies used, e.g., JavaScript, Python, etc.]
-- **Issue Tracker**: [Link to project issue tracker]
+### 1. **Project Name**: [Password Manager]
+- **Description**: A CLI-based password manager built in Python
+- **Technologies**: Python
+- **Issue Tracker**: https://github.com/IMGIITRoorkee/PwManager
 
 ### 2. **Project Name**: [Insert Project Title]
 - **Description**: A short description of the project’s purpose.
