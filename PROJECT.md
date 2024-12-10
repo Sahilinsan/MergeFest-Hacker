@@ -9,10 +9,10 @@ Welcome to the **Projects Directory** for **MergeFest 2024**! Below is a list of
 - **Technologies**: Python
 - **Issue Tracker**: https://github.com/IMGIITRoorkee/PwManager
 
-### 2. **Project Name**: [Insert Project Title]
-- **Description**: A short description of the project’s purpose.
-- **Technologies**: [List of technologies]
-- **Issue Tracker**: [Link to issues]
+### 2. **Project Name**: [Taskly](https://github.com/IMGIITRoorkee/Taskly)
+- **Description**: A task management app built in Flutter.
+- **Technologies**: Flutter
+- **Issue Tracker**: https://github.com/IMGIITRoorkee/Taskly/issues
 
 ### 3. **Project Name**: [Insert Project Title]
 - **Description**: Brief overview of the project’s objective.
