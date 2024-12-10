@@ -4,7 +4,7 @@ Welcome to the **Projects Directory** for **MergeFest 2024**! Below is a list of
 
 ## 🚀 Projects
 
-### 1. **Project Name**: [Password Manager]
+### 1. **Project Name**: [Password Manager](https://github.com/IMGIITRoorkee/PwManager)
 - **Description**: A CLI-based password manager built in Python
 - **Technologies**: Python
 - **Issue Tracker**: https://github.com/IMGIITRoorkee/PwManager
