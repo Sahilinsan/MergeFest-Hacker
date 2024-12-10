@@ -2,7 +2,7 @@
 
 ## Basic git commands
 
-Please visit: https://github.com/IMGIITRoorkee/open-source-arcade/blob/main/README.md
+Please visit: https://github.com/IMGIITRoorkee/open-source-arcade/
 
 ## Issue label
 
@@ -31,10 +31,11 @@ Please note:  If you wanted to work on an issue, let us know by leaving a commen
 
     This both creates and checks out that branch in one command.  
     The feature name should provide a (short) description of the issue.
+   **Branch without issue number will not be accepted.**
 
-4. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
-5. Commit your changes and push it to your fork of the repository.
-6. Create Pull Request (PR). Make sure to comment the issue that your PR is supposed to solve.
+5. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
+6. Commit your changes and push it to your fork of the repository.
+7. Create Pull Request (PR). Make sure to comment the issue that your PR is supposed to solve.
 
 ## Create a pull request
 
@@ -66,8 +67,7 @@ Please note:  If you wanted to work on an issue, let us know by leaving a commen
 
 ## Community
 Discussions about MergeFest issues and features take place on the repository's [Discussions] sections. Anybody is welcome to join these conversations. See the [README](README.md) for more information on communication channels.
-Join Discord:
-Join Instagram:
+Join [Discord](https://discord.com/invite/aKaEbaVYKf)
 
 ## The bottom line
 
