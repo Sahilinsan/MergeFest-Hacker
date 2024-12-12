@@ -14,7 +14,12 @@ Welcome to the **Projects Directory** for **MergeFest 2024**! Below is a list of
 - **Technologies**: Flutter
 - **Issue Tracker**: https://github.com/IMGIITRoorkee/Taskly/issues
 
-### 3. **Project Name**: [Insert Project Title]
+### 3. **Project Name**: [PromptChat](https://github.com/IMGIITRoorkee/prompt_chat)
+- **Description**: A command line chat app built in Dart.
+- **Technologies**: Dart, MongoDB
+- **Issue Tracker**: https://github.com/IMGIITRoorkee/prompt_chat/issues
+
+### 4. **Project Name**: [Insert Project Title]
 - **Description**: Brief overview of the project’s objective.
 - **Technologies**: [List of tools, languages, frameworks used]
 - **Issue Tracker**: [Link to the project issue board]
