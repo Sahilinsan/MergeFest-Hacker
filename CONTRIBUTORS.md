@@ -66,7 +66,7 @@ Please note:  If you wanted to work on an issue, let us know by leaving a commen
 - `awaiting-approval` labeled PRs are meant to be waiting for other community members.
 
 ## Community
-Discussions about MergeFest issues and features take place on the repository's [Discussions] sections. Anybody is welcome to join these conversations. See the [README](README.md) for more information on communication channels.
+Discussions about MergeFest issues and features take place on Discord. Anybody is welcome to join these conversations. See the [README](README.md) for more information on communication channels.
 Join [Discord](https://discord.com/invite/aKaEbaVYKf)
 
 ## The bottom line
