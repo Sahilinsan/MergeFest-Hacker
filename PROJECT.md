@@ -19,7 +19,12 @@ Welcome to the **Projects Directory** for **MergeFest 2024**! Below is a list of
 - **Technologies**: Dart, MongoDB
 - **Issue Tracker**: https://github.com/IMGIITRoorkee/prompt_chat/issues
 
-### 4. **Project Name**: [Insert Project Title]
+### 4. **Project Name**: [EasySell-Website](https://github.com/IMGIITRoorkee/EasySell-Website)
+- **Description**: A completely responsive website built in HTML, CSS, and JavaScript.
+- **Technologies**: HTML, CSS, JavaScript
+- **Issue Tracker**: https://github.com/IMGIITRoorkee/EasySell-Website/issues
+
+### 5. **Project Name**: [Insert Project Title]
 - **Description**: Brief overview of the project’s objective.
 - **Technologies**: [List of tools, languages, frameworks used]
 - **Issue Tracker**: [Link to the project issue board]
