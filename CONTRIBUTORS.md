@@ -48,6 +48,29 @@ Please note:  If you wanted to work on an issue, let us know by leaving a commen
 
 > Please note: maintainers may close your PR if it has gone stale or if we don't plan to merge the code.
 
+## Pull Request Template
+
+### Related Issue  
+Closes #issue number  
+
+### Type of Change
+Put `x` inside the square bracket to specify what type of change your PR is:  
+- [ ] New Feature  
+- [ ] Bug Fix  
+- [ ] Code Refactor  
+- [ ] Documentation Update  
+- [ ] Other (please specify): 
+
+### Description of Change  
+Give a description of the change your PR is bringing.
+
+### Implementation Details  
+Give details about how you are implementing the change.
+
+### Demo  
+Provide screenshots or a video demonstrating the feature in action.  
+(Include attachments or links, if applicable.)
+
 ## Pull request reviews
 
 - Requested changes must be resolved (with code or discussion) before merging.

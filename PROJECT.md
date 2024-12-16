@@ -7,7 +7,7 @@ Welcome to the **Projects Directory** for **MergeFest 2024**! Below is a list of
 ### 1. **Project Name**: [Password Manager](https://github.com/IMGIITRoorkee/PwManager)
 - **Description**: A CLI-based password manager built in Python
 - **Technologies**: Python
-- **Issue Tracker**: https://github.com/IMGIITRoorkee/PwManager
+- **Issue Tracker**: https://github.com/IMGIITRoorkee/PwManager/issues
 
 ### 2. **Project Name**: [Taskly](https://github.com/IMGIITRoorkee/Taskly)
 - **Description**: A task management app built in Flutter.
@@ -24,10 +24,15 @@ Welcome to the **Projects Directory** for **MergeFest 2024**! Below is a list of
 - **Technologies**: HTML, CSS, JavaScript
 - **Issue Tracker**: https://github.com/IMGIITRoorkee/EasySell-Website/issues
 
-### 5. **Project Name**: [Insert Project Title]
-- **Description**: Brief overview of the project’s objective.
-- **Technologies**: [List of tools, languages, frameworks used]
-- **Issue Tracker**: [Link to the project issue board]
+### 5. **Project Name**: [Memoria-Simple](https://github.com/IMGIITRoorkee/Memoria_Simple)
+- **Description**: Memoria is a fairly simple implementation of a key-value store in Go.
+- **Technologies**: Go
+- **Issue Tracker**: https://github.com/IMGIITRoorkee/Memoria_Simple/issues
+
+### 6. **Project Name**: [Ticketify](https://github.com/IMGIITRoorkee/Ticketify)
+- **Description**: Ticketify is a simple ticketing app to track the progress of your tickets, built in NextJS.
+- **Technologies**: NextJS
+- **Issue Tracker**: https://github.com/IMGIITRoorkee/Ticketify/issues
 
 ---
 
